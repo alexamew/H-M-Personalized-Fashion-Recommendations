@@ -3,7 +3,7 @@
 ## About the project
 The aim of this project is to implement a recommendation system based in some data provided by Kaggle.
 ### Authors
-Maria Iñigo
+- Maria Iñigo
 Alexandra Moraru
 ### Links of interest:
 [Kaggle competition](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/data)
